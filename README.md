@@ -7,6 +7,8 @@ c#實現。
 
 [nuget](https://www.nuget.org/packages/lizongying.lzy-codec)
 
+更多cli工具請參考 [go](https://github.com/lizongying/lzy-codec-go)
+
 ## Other languages
 
 * [go](https://github.com/lizongying/lzy-codec-go)
