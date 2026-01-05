@@ -16,6 +16,7 @@ c#實現。
 * [js](https://github.com/lizongying/lzy-codec-js)
 * [php](https://github.com/lizongying/lzy-codec-php)
 * [c](https://github.com/lizongying/lzy-codec-c)
+* [rust](https://github.com/lizongying/lzy-codec-rs)
 
 ## Install
 

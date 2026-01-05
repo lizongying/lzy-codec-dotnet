@@ -1,7 +1,6 @@
-﻿using System.Text;
+﻿namespace tests;
 
-namespace tests;
-
+using System.Text;
 using lzyCodec;
 using Xunit;
 
