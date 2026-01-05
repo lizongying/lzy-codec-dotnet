@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>lizongying.lzy-codec</PackageId>
-    <Version>0.1.1</Version>
+    <Version>0.1.2</Version>
     <PackageTags>lzy;lzy codec;lzy-codec;unicode;utf-8</PackageTags>
     <Description>
       一種變長文本編解碼方案，支持對Unicode進行編解碼。編解碼效率、存儲空間全面優於UTF-8，未來會替代UTF-8成為新的世界通用編解碼標準。

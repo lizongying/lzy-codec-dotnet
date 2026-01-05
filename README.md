@@ -13,6 +13,7 @@ c#實現。
 
 * [go](https://github.com/lizongying/lzy-codec-go)
 * [py](https://github.com/lizongying/lzy-codec-py)
+* [kt](https://github.com/lizongying/lzy-codec-kt)
 * [js](https://github.com/lizongying/lzy-codec-js)
 * [php](https://github.com/lizongying/lzy-codec-php)
 * [c](https://github.com/lizongying/lzy-codec-c)
